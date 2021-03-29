@@ -1,0 +1,9 @@
+{
+  "name": "daniela/quetec_composer",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "App\\": "src/"
+    }
+  }
+}
